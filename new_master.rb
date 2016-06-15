@@ -1,3 +1,3 @@
-class NewMaster
-
+class oldMaster
+  
 end
